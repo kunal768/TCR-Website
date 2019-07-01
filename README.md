@@ -1,6 +1,8 @@
 # The Official Team Website<br />
 
 
+[![HitCount](http://hits.dwyl.io/kunal768/TCR-Website.svg)](http://hits.dwyl.io/kunal768/TCR-Website)
+<br />
 
 
 
